@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse AI — Intelligent Student Success & Intervention Platform",
+  "description": "Multi-tenant higher education student success, early warning detection, explainable AI, human-centered intervention workflows, and confidential case management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
